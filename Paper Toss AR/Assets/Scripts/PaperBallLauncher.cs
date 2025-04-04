@@ -13,7 +13,7 @@ public class PaperBallLauncher : MonoBehaviour
 
     [Header("Paramètres")]
     [SerializeField] private float ballLifetime = 10f;
-    [SerializeField] private float spawnDistance = 1f;
+    [SerializeField] private float spawnDistance = 3f;
 
     private GameObject currentBall;
     private Vector2 touchStartPos;
