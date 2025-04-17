@@ -1,6 +1,6 @@
 # Paper-Toss-AR
 
-<div align="center"><img alt="banniere" align="center"  height="50%" width="100%" src="photos/PaperTossAR.png"></div>
+<div align="center"><img alt="banniere" align="center"  height="50%" width="100%" src="Photos/Banniere_PaperTossAR.png"></div>
 
 ___
 
